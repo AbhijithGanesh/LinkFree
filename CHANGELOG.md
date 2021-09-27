@@ -1,45 +1,45 @@
-## [0.17.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.17.1...v0.17.2) (2021-09-21)
+## [0.21.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.21.1...v0.21.2) (2021-09-26)
 
 
 ### Bug Fixes
 
-* add ShreyaansJain.json ([#234](https://github.com/EddieHubCommunity/LinkFree/issues/234)) ([2a48cb5](https://github.com/EddieHubCommunity/LinkFree/commit/2a48cb53106309a8fd84b0978daf4bbd854cee49))
+* links width ([#208](https://github.com/EddieHubCommunity/LinkFree/issues/208)) ([9f11c54](https://github.com/EddieHubCommunity/LinkFree/commit/9f11c54987212b67d37b57df9377b67686d2776f))
 
 
 
-## [0.17.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.17.0...v0.17.1) (2021-09-20)
+## [0.21.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.21.0...v0.21.1) (2021-09-26)
 
 
 ### Bug Fixes
 
-* formatting issues in all profiles ([#263](https://github.com/EddieHubCommunity/LinkFree/issues/263)) ([230d603](https://github.com/EddieHubCommunity/LinkFree/commit/230d603f641cbf6eb611b8b5d0235b0e00ee4586))
+* Anirudh data ([#173](https://github.com/EddieHubCommunity/LinkFree/issues/173)) ([7829a36](https://github.com/EddieHubCommunity/LinkFree/commit/7829a36c3081033608872661759d4c207b6d8646))
 
 
 
-# [0.17.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.16.3...v0.17.0) (2021-09-20)
+# [0.21.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.20.1...v0.21.0) (2021-09-26)
 
 
 ### Features
 
-* Use HTTPS instead of HTTP ([#269](https://github.com/EddieHubCommunity/LinkFree/issues/269)) ([af13f75](https://github.com/EddieHubCommunity/LinkFree/commit/af13f75ae4df08e420b39a3e0e9fffd09e8f4164))
+* milestones ([#252](https://github.com/EddieHubCommunity/LinkFree/issues/252)) ([#254](https://github.com/EddieHubCommunity/LinkFree/issues/254)) ([f3c0a60](https://github.com/EddieHubCommunity/LinkFree/commit/f3c0a60ab3047d68759cc9e99bc69db68de6e2cd))
 
 
 
-## [0.16.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.16.2...v0.16.3) (2021-09-20)
-
-
-### Bug Fixes
-
-* infoxicator user ([#253](https://github.com/EddieHubCommunity/LinkFree/issues/253)) ([bda6dcb](https://github.com/EddieHubCommunity/LinkFree/commit/bda6dcba11b94eb996a7ca61e66090234ec16da5))
-
-
-
-## [0.16.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.16.1...v0.16.2) (2021-09-19)
+## [0.20.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.20.0...v0.20.1) (2021-09-24)
 
 
 ### Bug Fixes
 
-* avatar to .png url  ([#120](https://github.com/EddieHubCommunity/LinkFree/issues/120)) ([0bf8c2b](https://github.com/EddieHubCommunity/LinkFree/commit/0bf8c2b160b9f22b7f0bcb21ccd2637b65dea456))
+* add niteshseram's data ([#307](https://github.com/EddieHubCommunity/LinkFree/issues/307)) ([a17c29e](https://github.com/EddieHubCommunity/LinkFree/commit/a17c29e76afb82330a48c40b97d4b2ebbff4cae5))
+
+
+
+# [0.20.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.19.2...v0.20.0) (2021-09-23)
+
+
+### Features
+
+* add Sejal-16 ([#301](https://github.com/EddieHubCommunity/LinkFree/issues/301)) ([35aa054](https://github.com/EddieHubCommunity/LinkFree/commit/35aa054e599b640359fd691e72ca2a2a706a96ef))
 
 
 
